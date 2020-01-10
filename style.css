@@ -830,4 +830,14 @@ body {
   .cta-section h2 {
     font-size: 2rem;
   }
+
+
+  .none{
+    text-align: center;
+    margin-left: 34%;
+  }
+
+  .instituto{
+    margin-bottom: 200px !important;
+  }
 }
