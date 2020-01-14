@@ -452,6 +452,10 @@ body {
         line-height: 0.4em;
     }
 
+    .carlos{
+      margin-top: 10px !important;
+    }
+
     h1 {
         font-size: 40px !important;
     }
@@ -484,6 +488,10 @@ body {
     }
     .subtitulo{
       font-size: 20px !important;
+  }
+
+  .carlos{
+    margin-top: 0px !important;
   }
 
   }
