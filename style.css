@@ -494,6 +494,14 @@ body {
     margin-top: 0px !important;
   }
 
+  .btnhero{
+    font-size:70%;
+  }
+
+  .logi{
+    width:20%;
+  }
+
   }
   .cd-container {
     width: 90%;
@@ -508,6 +516,8 @@ body {
     display: table;
     clear: both;
   }
+
+  
   
   /* -------------------------------- 
   
